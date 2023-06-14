@@ -1,12 +1,1 @@
-<table>
-  <tr>
-    <td><a href="drilldown1.html"><img src="image1.jpg"></a></td>
-    <td><a href="drilldown2.html"><img src="image2.jpg"></a></td>
-    <td><a href="drilldown3.html"><img src="image3.jpg"></a></td>
-  </tr>
-  <tr>
-    <td><a href="drilldown4.html"><img src="image4.jpg"></a></td>
-    <td><a href="drilldown5.html"><img src="image5.jpg"></a></td>
-    <td><a href="drilldown6.html"><img src="image6.jpg"></a></td>
-  </tr>
-</table>
+hello world
